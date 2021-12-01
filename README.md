@@ -31,6 +31,11 @@ Sno| Name
 [basic writing url](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - pppppractice
- - George Washington
- - John Adams
- - Thomas Jefferson
+  - George Washington
+  - John Adams
+  - Thomas Jefferson
+- First list item
+     - First nested list item
+       - Second nested list item
+
+
