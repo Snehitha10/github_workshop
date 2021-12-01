@@ -25,7 +25,12 @@
 
 Sno| Name 
 ----|----
-1|snehitha
+1|snehithahahaha
 2|keeeeerthi
 
 [basic writing url](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- pppppractice
+ - George Washington
+ - John Adams
+ - Thomas Jefferson
